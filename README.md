@@ -13,7 +13,7 @@
 ## Tecnologías
 
 * **PHP 8.x**
-* **Laravel 10**
+* **Laravel 11**
 * **Livewire**
 * **Tailwind CSS**
 * **Node.js & NPM** (para compilación de assets)
